@@ -9,7 +9,7 @@ public class custom extends Customcollectionlist{
 	    	sc = new Scanner(System.in);
 	    	int opConOrExit;
 	        obj.add("India");
-	        obj.add("Austraila");
+	        obj.add("Australia");
 	        obj.add("USA");
 	        obj.add("China");
 	        obj.add("Japan");
